@@ -35,21 +35,21 @@ function Prices() {
                 animate={{ opacity: 1 }}
                 transition={{ duration: 1, delay: 0.2 }}
               >
-                17.000 Ft
+                20.000 Ft
               </motion.td>
               <motion.td
                 initial={{ opacity: 0 }}
                 animate={{ opacity: 1 }}
                 transition={{ duration: 1, delay: 0.4 }}
               >
-                19.000 Ft
+                22.000 Ft
               </motion.td>
               <motion.td
                 initial={{ opacity: 0 }}
                 animate={{ opacity: 1 }}
                 transition={{ duration: 1, delay: 0.6 }}
               >
-                21.000 Ft
+                24.000 Ft
               </motion.td>
             </tr>
           </tbody>
